@@ -1,0 +1,2 @@
+﻿rootProject.name = 'AMMAR-android-demo'
+include ':app'
